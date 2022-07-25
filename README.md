@@ -23,3 +23,5 @@ https://docs.google.com/spreadsheets/d/1mI4xO9CujxcajQUTTmyf8LfgRoCQewfkCj2A0onq
 6. Работал с таблицами базы данных Chicago_taxi на удаленном 
 сервере с использованием PostgreSQL:
 https://docs.google.com/document/d/1IYspAPo45o-SflhdDifImCBsqcD85qAZKK0Ptg-s-do/edit 
+
+7. Изучал основы автоматизации на языке JavaScript в NodeJS с библиотекой Puppeteer.
