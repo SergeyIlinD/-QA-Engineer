@@ -25,3 +25,19 @@ https://docs.google.com/spreadsheets/d/1mI4xO9CujxcajQUTTmyf8LfgRoCQewfkCj2A0onq
 https://docs.google.com/document/d/1IYspAPo45o-SflhdDifImCBsqcD85qAZKK0Ptg-s-do/edit 
 
 7. Изучал основы автоматизации на языке JavaScript в NodeJS с библиотекой Puppeteer.
+
+Навыки  
+- Анализ требований 
+- Составление тестовой документации 
+- Техники тест дизайна 
+- Методологии разработки 
+- Клиент-серверная архитектура 
+- OSI Model 
+- Postman, Swagger, SoapUI 
+- Charles, Fiddler 
+- DevTools 
+- Android Studio 
+- SQL 
+- Git 
+- Jira, Яндекс.Трекер 
+- Miro
